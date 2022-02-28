@@ -11,7 +11,7 @@ def TitulosCorinthians():
     print("- 2 Mundiais de Clubes da Fifa.")
 
 def TitulosPalmeiras():
-    print("- 5 Campeonatos Brasileiro;")
+    print("- 6 Campeonatos Brasileiro;")
     print("- 23 Campeonatos Paulista;")
     print("- 3 Libertadores da América;")
 
@@ -22,11 +22,9 @@ def TitulosSaoPaulo():
     print("- 3 Mundiais de Clubes da Fifa.")
 
 def TitulosSantos():
-    print("- 5 Campeonatos Brasileiro;")
+    print("- 2 Campeonatos Brasileiro;")
     print("- 22 Campeonatos Paulista;")
     print("- 3 Libertadores da América;")
-
-
 
 
 
